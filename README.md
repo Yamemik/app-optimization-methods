@@ -1,4 +1,4 @@
-﻿# vanga (tg bot)
+﻿# Методы оптимизации (app)
 
 ![Static Badge](https://img.shields.io/badge/Yamemik-methods)
 ![GitHub top language](https://img.shields.io/github/languages/top/Yamemik/app-optimization-methods)
