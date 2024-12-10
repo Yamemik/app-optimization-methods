@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pydantic = "*"
 pydantic-settings = "*"
+numpy = "*"
+matplotlib = "*"
 
 [dev-packages]
 
