@@ -56,8 +56,10 @@ ax.scatter(pareto_points[:, 0], pareto_points[:, 1], pareto_points[:, 2], color=
 ax.set_xlabel('f1(x, y, z)')
 ax.set_ylabel('f2(x, y, z)')
 ax.set_zlabel('f3(x, y, z)')
-ax.set_title('Метод Парето-оптимальности для трёх целевых функций')
+ax.set_title('Метод Парето-оптимальности')
 ax.legend()
 plt.show()
 
 print(points)
+print()
+print(pareto_points)
