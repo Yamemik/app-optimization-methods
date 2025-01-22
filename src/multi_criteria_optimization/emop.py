@@ -7,15 +7,15 @@ def f1(x, y, z):
     return 2*x + y - 3*z
 
 def f2(x, y, z):
-    return x + 3*y - 2*z
+    return -x - 3*y + 2*z
 
 def f3(x, y, z):
     return -x + 2*y + 4*z
 
 # Сгенерируем точки в диапазоне
-x_values = np.linspace(0, 40, 50)
-y_values = np.linspace(0, 40, 50)
-z_values = np.linspace(0, 40, 50)
+x_values = np.linspace(0, 20, 20)
+y_values = np.linspace(0, 20, 20)
+z_values = np.linspace(0, 20, 20)
 
 # Создаем массив для хранения всех точек
 points = []
